@@ -1,4 +1,4 @@
-- 👋 I'm Dhia Zerrari, I like everything that can be programmed! From microcontrollers and FPGAs to desktop and mobile apps
+- 👋 I like everything that can be programmed! From microcontrollers and FPGAs to desktop and mobile apps
 - 🌱 Learning Android native and VHDL/Verilog
 - What's a hardware designer's favourite drink?
 - Field Programmable Gatorade!
