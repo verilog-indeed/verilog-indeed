@@ -1,5 +1,5 @@
 - 👋 Huggies
-- 🌱 I think I want to learn Flutter now? Definitely more Verilog/VHDL
+- 🌱 Learning Android native and VHDL/Verilog
 - What's a hardware designer's favourite drink?
 - Field Programmable Gatorade!
 
