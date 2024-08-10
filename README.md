@@ -1,5 +1,5 @@
-- 👋 I like everything that can be programmed! From microcontrollers and FPGAs to desktop and mobile apps
-- 🌱 Learning Android native and VHDL/Verilog
+- Fresh Computer Engineering graduate who tinkers in everything that can be programmed, from microcontrollers and FPGAs to desktop and mobile apps.
+- I dabble in: VHDL, SystemVerilog, Java, Kotlin, Python, Android, Embedded C, Analog electronics...
 - What's a hardware designer's favourite drink?
 - Field Programmable Gatorade!
 
